@@ -157,7 +157,7 @@ h3{
     }
 }
 
-@media only screen and (max-width:769px){
+@media only screen and (max-width:426px){
     .add,.list{
         width: 100%;
     }
